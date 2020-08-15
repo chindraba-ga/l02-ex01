@@ -1,6 +1,8 @@
 # l02-ex01
 
-- Status: Pending
+-  Status: Pending
+-  CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
+-  Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
 
 ## Contents
 
@@ -11,7 +13,7 @@
 ---
 ## Description
 
-### Guided Walk-Through: HTML Review
+### Lesson 2: Guided Walk-Through: HTML Review
 
 Let's review tagging content with a quick walk-through. The example solution contains plenty of tags you haven't seen yet - don't worry, they'll come later! In the meantime, it's good to challenge yourself by analyzing unfamiliar content.
 
