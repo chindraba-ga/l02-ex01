@@ -1,5 +1,5 @@
 l02-ex01
-* Status: Pending
+* Status: Submitted
 * CodePen: <https://codepen.io/chindraba-ga/pen/gOrbmPX>
 * Live page: <https://www.chindraba.work/fewd/l02-ex01.html>
 
